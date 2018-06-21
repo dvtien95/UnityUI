@@ -1,0 +1,106 @@
+{
+  "Questionnaire_Name": "Video Games Questionnaire Survey",
+  "Questionnaire_Items": [
+    {
+      "Item_Description": "1. What is your age range?",
+      "Item_Point_Scale": 5,
+      "Item_Labels": [
+        "Under 12",
+        "12 - 17",
+        "18 - 24",
+        "25 - 34",
+        "Above 35"
+      ]
+    },
+    {
+      "Item_Description": "2. What is your gender?",
+      "Item_Point_Scale": 3,
+      "Item_Labels": [
+        "Male",
+        "Female",
+        "Complicated"
+      ]
+    },
+    {
+      "Item_Description": "3. Do you play video games at all? (whether online or offline)",
+      "Item_Point_Scale": 2,
+      "Item_Labels": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "Item_Description": "4. How many device(s) you use to play video games?",
+      "Item_Point_Scale": 3,
+      "Item_Labels": [
+        "1 - 2",
+        "3 - 4",
+        "5 or more"
+      ]
+    },
+    {
+      "Item_Description": "5. How many day(s) of the week do you play video game?",
+      "Item_Point_Scale": 4,
+      "Item_Labels": [
+        "1",
+        "2 - 3",
+        "4 - 5",
+        "6 - 7"
+      ]
+    },
+    {
+      "Item_Description": "6. On average how many hours do you play video games per day?",
+      "Item_Point_Scale": 5,
+      "Item_Labels": [
+        "1 or less",
+        "2 - 3",
+        "4 - 5",
+        "6 or more"
+      ]
+    },
+    {
+      "Item_Description": "7. Think about your most recent grading period What was your grade point average (GPA)?",
+      "Item_Point_Scale": 5,
+      "Item_Labels": [
+        "3.6 - 4.0",
+        "3.1 - 3.5",
+        "2.6 - 3.0",
+        "2.1 - 2.5",
+        "Less than 2.0"
+      ]
+    },
+    {
+      "Item_Description": "8. Compared to last year would you say you play video games more often or less often?",
+      "Item_Point_Scale": 5,
+      "Item_Labels": [
+        "More Often",
+        "Less Often"
+      ]
+    },
+    {
+      "Item_Description": "9. Think about your close friends How often do they play video games compared to you?",
+      "Item_Point_Scale": 5,
+      "Item_Labels": [
+        "About the same",
+        "More than me",
+        "Less than me"
+      ]
+    },
+    {
+      "Item_Description": "10. On scale 1 to 10 How do you rate this game?",
+      "Item_Point_Scale": 5,
+      "Item_Labels": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    }
+  ]
+}

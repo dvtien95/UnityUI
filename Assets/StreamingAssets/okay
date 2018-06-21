@@ -1,0 +1,26 @@
+question0: {
+	label: is the color blue,
+	numberAnswers: 2,
+	answers: {
+		answer0:yes ,
+		answer1:no,
+	}
+}
+question1: {
+	label: where are u from,
+	numberAnswers: 1,
+	answers: {
+		answer0:,
+	}
+}
+question2: {
+	label: answer from scale of 1 to 5,
+	numberAnswers: 5,
+	answers: {
+		answer0:1,
+		answer1:2,
+		answer2:3,
+		answer3:4,
+		answer4:5,
+	}
+}
